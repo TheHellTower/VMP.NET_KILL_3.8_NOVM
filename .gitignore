@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/VMP.NET_3.8_NOVM/FileContentIndex
+/VMP.NET_3.8_NOVM/obj
+/VMP.NET_3.8_NOVM/bin
+/.vs/VMP.NET_3.8_NOVM/v17
+/Release
+*.log
