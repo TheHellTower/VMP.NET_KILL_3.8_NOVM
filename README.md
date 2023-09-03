@@ -12,13 +12,13 @@ this will be a revive of [VMP.NET-Kill](https://github.com/DarkBullNull/VMP.NET-
 
 ## 💡 Features
 
-- [ ] Remomve Mutations
+- [X] Remomve Mutations
 - [ ] Bypass
     - [ ] Anti-VM
     - [ ] Anti-Debugging
     - [ ] CRC
-- [ ] Decrypt Strings
-- [ ] Import Protection
+- [X] Decrypt Strings
+- [X] Import Protection (Half Broken Need To Debug & Rewrite It)
 
 ## 🎥 Preview
 
