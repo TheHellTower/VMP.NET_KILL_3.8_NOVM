@@ -18,7 +18,7 @@ this will be a revive of [VMP.NET-Kill](https://github.com/DarkBullNull/VMP.NET-
     - [ ] Anti-Debugging
     - [ ] CRC
 - [X] Decrypt Strings
-- [X] Import Protection (Half Broken Need To Debug & Rewrite It)
+- [] Import Protection (Disabled, Half Broken Need To Debug & Rewrite It)
 
 ## 🎥 Preview
 

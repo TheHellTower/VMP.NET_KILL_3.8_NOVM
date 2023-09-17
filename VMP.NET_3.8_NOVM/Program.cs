@@ -27,7 +27,7 @@ namespace VMP.NET_3._8_NOVM
                 //Protections.AntiTamper.Execute(Module);
                 
                 Protections.Mutation.Execute(Module);
-                Protections.Import.Execute(Module);
+                //Protections.Import.Execute(Module);
             }
             var nativeModuleWriter = new NativeModuleWriterOptions(Module, false);
             nativeModuleWriter.Logger = DummyLogger.NoThrowInstance;
